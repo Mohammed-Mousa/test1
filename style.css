@@ -8,10 +8,12 @@
 	text-decoration: none;
 	text-transform: capitalize;
 	transition: .2s linear;
+	
 }
 
 :root {
 	--pink: #e84393;
+	padding:0px;
 }
 
 html {
